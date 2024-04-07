@@ -1,5 +1,5 @@
 const app = require('./routes');
 app.listen(8080,()=>{
-    console.log('server started');
+    console.log('server started : 8080');
 })
 
